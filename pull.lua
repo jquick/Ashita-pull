@@ -2,7 +2,7 @@ addon.name      = 'pull';
 addon.author    = 'Mazungu';
 addon.version   = '1.0.0';
 addon.desc      = 'Convert /check into a pull message to party chat. Must use /pullToggle before /check in a macro';
-addon.link      = 'https://github.com/jquick/pull';
+addon.link      = 'https://github.com/jquick/Ashita-pull';
 
 require('common');
 local chat = require('chat');
